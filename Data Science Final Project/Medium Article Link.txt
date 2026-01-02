@@ -1,0 +1,4 @@
+Part 1
+https://medium.com/@syedhaiderafzal/exploring-the-skies-an-exploratory-data-analysis-on-military-aircraft-detection-9c8d42a0b31f
+Part 2
+https://medium.com/@syedhaiderafzal/beyond-the-clouds-from-exploratory-data-analysis-to-causal-inference-and-production-deployment-c7e27f6ae7c4
